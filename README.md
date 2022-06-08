@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AmanielyMkamba
-- 👀 I’m interested in learing coding and becoming a web developer
-- 🌱 I’m currently learning coding at Coding Dojo
-- 💞️ I’m looking to collaborate on different coding project that I can learn from and practice what I am learning at moment
+- 👋 Hi there!, I’m AmanielyMkamba
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently seeking work and coding on personal projects
+- 🌱 My resume: https://drive.google.com/file/d/1W1VeXzKp_OfwDSi0YkGs7cnmdsi2RjUx/view?usp=sharing
 - 📫 How to reach me amani.mkamba@gmail.com
 
 <!---
